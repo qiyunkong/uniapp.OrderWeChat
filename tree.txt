@@ -1,0 +1,59 @@
+文件夹 PATH 列表
+卷序列号为 B403-5431
+D:.
+│  App.vue
+│  main.js
+│  manifest.json
+│  pages.json
+│  README.md
+│  tree.txt
+│  uni.scss
+│  
+├─pages
+│  └─index
+│          index.vue
+│          
+├─static
+│      logo.png
+│      
+└─unpackage
+    └─dist
+        └─dev
+            ├─.automator
+            │  └─mp-weixin
+            │          .automator.json
+            │          
+            ├─.sourcemap
+            │  └─mp-weixin
+            │      ├─common
+            │      │      main.js.map
+            │      │      runtime.js.map
+            │      │      vendor.js.map
+            │      │      
+            │      └─pages
+            │          └─index
+            │                  index.js.map
+            │                  
+            └─mp-weixin
+                │  app.js
+                │  app.json
+                │  app.wxss
+                │  project.config.json
+                │  sitemap.json
+                │  
+                ├─common
+                │      main.js
+                │      main.wxss
+                │      runtime.js
+                │      vendor.js
+                │      
+                ├─pages
+                │  └─index
+                │          index.js
+                │          index.json
+                │          index.wxml
+                │          index.wxss
+                │          
+                └─static
+                        logo.png
+                        
